@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    color: black;
+    background-color: rgb(46, 194, 235);
+    border: 3px solid red;
+    border-radius: 20px;
+    text-align: center;
+    
+}
+.virtual{
+    color: black;
+    background-color: yellow;
+}
+.hayvon{
+    color: red;
+}
+.box{
+    margin-left: 20px;
+}
+.hayvonlar{
+    color: black;
+    background-color: yellow;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+.rasm{
+    text-align: center;
+}
+.video{
+    text-align: center;
+    background-color: black;
+    margin-left: 25px;
+    margin-right: 10px;
+    border-radius: 15px;
+}
+.names{
+    color: green;
+}
+button{
+    color: white;
+    background-color: rgb(19, 137, 241);
+    width: 280px;
+    height: 30px;
+    margin-left: 10px;
+}
+table, th, td{
+    border: 1px solid black;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+th, td{
+    padding: 6px;
+}
+.green{
+    color: white;
+    background-color: green;
+}
+.red{
+    color: white;
+    background-color: red;
+}
+.blue{
+    color: white;
+    background-color: blue;
+}
+.black{
+    color: white;
+    background-color: black;
+}
+.margin{
+    margin-left: 5px;
+    margin-right: 80px;
+}
+.mars{
+    height: 50px;
+    width: 1300px;
+    margin-left: 10px;
+}
+
+
+
